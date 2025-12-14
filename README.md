@@ -4,6 +4,7 @@ Desenvolver sistema para gerenciar um catálogo pessoal de filmes e séries, com
 
 ---
 **Equipe**
+
 FELIPE PEREIRA DE SOUZA SILVA
 
 GABRIEL PEREIRA DA SILVA
