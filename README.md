@@ -3,6 +3,11 @@
 Desenvolver sistema para gerenciar um catálogo pessoal de filmes e séries, com avaliações, status de visualização, temporadas/episódios, histórico e relatórios de consumo de mídia
 
 ---
+**Equipe**
+FELIPE PEREIRA DE SOUZA SILVA
+GABRIEL PEREIRA DA SILVA
+RENATA DO NASCIMENTO GONÇALVES
+
 **Descrição de responsabilidades de cada membro**
 
 **Entrega 1 — 12/12/2025**
