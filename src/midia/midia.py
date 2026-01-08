@@ -5,14 +5,14 @@ from .status import MidiaStatus
 
 class Midia(ABC):
     def __init__(self, titulo: str, tipo: MidiaType, genero: str, ano: int, duracao: float, classificacao: str,
-                 elenco: dict[str], status: MidiaStatus, nota_media: float):
+                 elenco: dict[str, str], status: MidiaStatus, nota_media: float):
         self.titulo: str = titulo
         self.tipo: MidiaType = tipo
         self.genero: str = genero
         self.ano: int = ano
         self.duracao: float = duracao
         self.classificacao: str = classificacao
-        self.elenco: dict[str] = elenco
+        self.elenco: dict[str, str] = elenco
         self.status: MidiaStatus = status
         self.nota_media: float = nota_media
 
