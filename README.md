@@ -117,3 +117,9 @@ Metodos: carregar(), salvar()
 Atributos: caminho_arquivo (str)
 
 Metodos: salvar(), carregar(), seed_inicial()
+
+### Como rodar:
+
+Estando na pasta raiz:
+
+> No terminal: python -m src.main
